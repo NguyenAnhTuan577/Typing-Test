@@ -1,0 +1,24 @@
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\bin\Debug\Typing Game.exe.config
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\bin\Debug\Typing Game.exe.manifest
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\bin\Debug\Typing Game.application
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\bin\Debug\Typing Game.exe
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\bin\Debug\Typing Game.pdb
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\Typing Test.csprojResolveAssemblyReference.cache
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmIntroduce.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmBlockDrop.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmDangki.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmEggDrop.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmFlappyBird.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmLogin.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmRank.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmScore.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmSpeedTestABC.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmTypingTest.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\WindowsFormsApplication1.frmCharFallOut.resources
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\Typing Test.csproj.GenerateResource.Cache
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\Typing Game.exe.manifest
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\Typing Game.application
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\Typing Game.exe
+D:\Anh Tuấn\Học Tập\Chính Khóa\Năm 3 (2018-2019)\Tết 2019\Code đồ án\Typing Test\Typing Test\obj\Debug\Typing Game.pdb
